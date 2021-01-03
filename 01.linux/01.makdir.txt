@@ -1,0 +1,2 @@
+#day1. mkdir
+##make a directory
